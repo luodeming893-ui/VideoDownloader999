@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- 下载图标 -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2zM12,18c-0.55,0 -1,-0.45 -1,-1v-5.59l-2.29,2.29c-0.39,0.39 -1.02,0.39 -1.41,0 -0.39,-0.39 -0.39,-1.02 0,-1.41l4,-4c0.39,-0.39 1.02,-0.39 1.41,0l4,4c0.39,0.39 0.39,1.02 0,1.41 0.39,0.39 1.02,0.39 1.41,0L13,11.41V17c0,0.55 -0.45,1 -1,1zM8,10l-3,3v2h14v-2l-3,-3" />
+    
+</vector>

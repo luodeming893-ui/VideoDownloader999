@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">视频下载器</string>
+    <string name="paste_url">粘贴链接</string>
+    <string name="download">下载</string>
+    <string name="input_hint">请输入视频链接</string>
+    <string name="permission_required">需要存储权限才能下载视频</string>
+    <string name="download_success">下载成功</string>
+    <string name="download_failed">下载失败</string>
+    <string name="parsing">正在解析链接…</string>
+    <string name="downloading">正在下载…</string>
+</resources>
